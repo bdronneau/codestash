@@ -1,12 +1,20 @@
-# codestash
-Tech Blog build on top of Hugo
+# StashMyCode
+Blog build on top of [Hugo](https://gohugo.io/) and [materialize-cards](https://github.com/bdronneau/materialize-cards) theme.
 
 ## Installation
-https://gohugo.io/
+  * [Hugo](https://gohugo.io/)
+  * [materialize-cards](https://github.com/bdronneau/materialize-cards#installation)
 
 ## Usage
 
-### Dev
+### Development
+Launch server with livereload and auto rebuilding
+
 ```bash
-$ hugo server --theme=<theme> --buildDrafts -w
+$ hugo server --theme=materialize-cards --buildDrafts -w
+```
+
+### Build
+```bash
+$ hugo --theme=materialize-cards
 ```
