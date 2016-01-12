@@ -1,0 +1,6 @@
+baseurl: "http://yoursite.example.com/"
+permalinks:
+  posts: /:year/:month/:title/
+  about: /:title/
+  contact: /:title/
+paginate: 6
