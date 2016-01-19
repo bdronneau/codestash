@@ -5,6 +5,7 @@ title = "2sjfiofjzefijzpfj oj 2sjfiofjzefijzpfj"
 author = "Bastien DRONNEAU"
 image = "https://static.dronneau.fr/cat.jpg"
 tags = ["dsl", "puppet"]
+comment = true
 +++
 
 In vel ligula tortor. Aliquam erat volutpat.
