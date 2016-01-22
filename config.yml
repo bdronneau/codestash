@@ -4,3 +4,5 @@ permalinks:
   about: /:title/
   contact: /:title/
 paginate: 6
+params:
+  googleAnalyticsId: UA-72716434-1
