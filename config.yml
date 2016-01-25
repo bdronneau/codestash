@@ -6,3 +6,7 @@ permalinks:
 paginate: 6
 params:
   googleAnalyticsId: UA-72716434-1
+sitemap:
+  changefreq: "weekly"
+  priority: 0.5
+LanguageCode: fr-fr
